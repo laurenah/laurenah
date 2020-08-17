@@ -8,7 +8,7 @@
 **laurenah/laurenah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a third generation programmer, passionate about problem solving and writing 200 lines of code and having it compile first try. I love to read, and my music taste has no genre.  
+I'm a third generation programmer, passionate about problem solving and learning new things. I love to read, and my music taste has no genre.  
 
 - 🔭 I’m currently working on React apps
 - 🌱 I’m currently learning React.js
