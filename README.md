@@ -8,10 +8,11 @@
 **laurenah/laurenah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a third generation programmer, passionate about problem solving and learning new things. I love to read, and my music taste has no genre.  
+I'm a third generation programmer, passionate about problem solving and learning new things. I love to read, listen to music, and go camping.  
 
 - 🔭 I’m currently working on React apps
-- 🌱 I’m currently learning React.js
-- 💬 Ask me about books, tech, the pros and cons of Android and iOS development
+- 👀 I’m looking for graduate roles - preferably web development
+- 💬 Ask me about books, tech, videogames 
 - 😄 Pronouns: she/her
-- ⚡ Languages: Javascript, Java, PHP, HTML5, CSS3, Swift
+- 👋 Languages I've coded in: Javascript, Typescript, PHP, HTML5, CSS3, Swift, Python, Java, C++, VBA
+- 🥞 Stacks I've used: MEAN, MERN
