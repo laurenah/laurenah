@@ -15,4 +15,4 @@ I'm a third generation programmer, passionate about problem solving and learning
 - 💬 Ask me about books, tech, videogames 
 - 😄 Pronouns: she/her
 - 👋 Languages I've coded in: Javascript, Typescript, PHP, HTML5, CSS3, Swift, Python, Java, C++, VBA
-- 🥞 Stacks I've used: MEAN, MERN
+- 🥞 Stacks I've used: MEAN, MERN, LAMP
